@@ -1,11 +1,9 @@
-package src;
-//import java.util.*;
+package GameOfLife2_0;
 
 public class Main {
 	public static void main(String[] args) {
 		World world = new World();
-		world.World();
-		//Random random = new Random();
+		//world.randomizeFirstCells();
 		world.getWorldData();
 	}
 }
