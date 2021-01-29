@@ -27,3 +27,5 @@ this is the world with first generation of King cells.
 ![alt text](https://github.com/iamshayankarami/GameOfLife2.0/blob/main/Screen%20Shot%202021-01-29%20at%2011.48.32%20PM.png)
 
 this is the world after 100 generations.
+
+As you can see the cells are get evolution and creates new cells with new shapes and new colors.
